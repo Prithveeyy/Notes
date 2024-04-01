@@ -1,0 +1,83 @@
+HTML Tags:
+
+<html> - Defines the root of an HTML document.
+<head> - Contains metadata about the document.
+<title> - Defines the title of the document.
+<body> - Contains the visible content of the document.
+<h1> to <h6> - Headings of decreasing importance.
+<p> - Defines a paragraph.
+<a> - Defines a hyperlink.
+<img> - Embeds an image into the document.
+<div> - Defines a division or a section in an HTML document.
+<span> - Defines a section in a document for styling purposes.
+<ul> - Defines an unordered list.
+<ol> - Defines an ordered list.
+<li> - Defines a list item.
+<table> - Defines a table.
+<tr> - Defines a row in a table.
+<td> - Defines a cell in a table.
+<th> - Defines a header cell in a table.
+<form> - Defines an HTML form for user input.
+<input> - Defines an input control.
+<textarea> - Defines a multiline input control (text area).
+<button> - Defines a clickable button.
+<select> - Defines a drop-down list.
+<option> - Defines an option in a drop-down list.
+<label> - Defines a label for an <input> element.
+<fieldset> - Groups related elements in a form.
+<legend> - Defines a caption for a <fieldset> element.
+<iframe> - Defines an inline frame.
+<audio> - Defines sound content.
+<video> - Defines video or movie content.
+<script> - Defines a client-side script.
+<noscript> - Defines alternate content for users that do not support client-side scripts.
+<style> - Defines style information for a document.
+<meta> - Defines metadata about an HTML document.
+<link> - Defines the relationship between a document and an external resource.
+<abbr> - Defines an abbreviation or acronym.
+<cite> - Defines the title of a work.
+<blockquote> - Defines a section that is quoted from another source.
+<q> - Defines a short inline quotation.
+<hr> - Defines a thematic break in an HTML page.
+<br> - Defines a line break.
+<strong> - Defines important text.
+<em> - Defines emphasized text.
+<code> - Defines a piece of computer code.
+<pre> - Defines preformatted text.
+<mark> - Defines marked or highlighted text.
+<sup> - Defines superscript text.
+<sub> - Defines subscript text.
+<u> - Defines underlined text.
+<del> - Defines deleted text.
+<ins> - Defines inserted text.
+
+Attributes:
+href: Specifies the URL of a link.
+src: Specifies the URL of an image or other external resource.
+alt: Provides alternative text for images.
+id: Provides a unique identifier for an element.
+class: Specifies one or more classes for an element, used for styling and scripting.
+style: Inline CSS styles for an element.
+type: Specifies the type of an input element.
+name: Specifies the name of an input element.
+value: Specifies the value of an input element.
+placeholder: Provides a hint or example text for an input field.
+required: Specifies that an input field must be filled out before submitting the form.
+checked: Specifies that an input checkbox or radio button should be pre-selected.
+rows: Specifies the visible height of a textarea.
+cols: Specifies the visible width of a textarea.
+action: Specifies the URL where the form data will be submitted.
+method: Specifies the HTTP method (GET or POST) to be used when submitting the form.
+
+Important Points:
+HTML stands for HyperText Markup Language.
+It is used to create the structure and content of web pages.
+HTML documents are comprised of nested elements.
+Elements are represented by tags, which can have attributes.
+HTML documents are typically structured with a head and a body.
+The head contains meta-information and links to external resources.
+The body contains the visible content of the page.
+HTML is not case-sensitive, but lowercase is commonly used for tags and attributes.
+Proper indentation and organization of code enhance readability and maintainability.
+HTML5 is the latest version of HTML, offering new features and improvements over previous versions.
+

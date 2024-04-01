@@ -1,0 +1,152 @@
+CSS
+
+1. Element: A fundamental building block in HTML representing an individual component on a webpage.
+2. Class: A reusable identifier in HTML and CSS used to style multiple elements with the same properties.
+3. ID: An identifier in HTML used to uniquely identify an element, often styled with CSS.
+4. Selector: A pattern used to select and style elements in CSS.
+5. Property: A characteristic of an element that can be styled using CSS.
+6. Value: The setting or parameter assigned to a CSS property.
+7. Rule: A combination of a selector and one or more declarations in CSS.
+8. Declaration: A property-value pair within a CSS rule.
+9. Style: The appearance or design applied to an HTML element using CSS.
+10. Font: The typeface or design of text in CSS.
+11. Color: The visual attribute specifying the hue of an element.
+12. Background: The area behind the content of an element.
+13. Margin: The space outside the border of an element.
+14. Padding: The space between the content and the border of an element.
+15. Border: A line that surrounds an element's padding area.
+16. Display: The way an element behaves on the page (e.g., block, inline, none).
+17. Position: The placement of an element within its containing element.
+18. Float: The property that allows an element to be pushed to one side and have content flow around it.
+19. Clear: The property that prevents an element from being affected by floats.
+20. Width: The horizontal dimension of an element.
+21. Height: The vertical dimension of an element.
+22. Max-width: The maximum width an element can have.
+23. Max-height: The maximum height an element can have.
+24. Min-width: The minimum width an element can have.
+25. Min-height: The minimum height an element can have.
+26. Box-sizing: The property that determines how the width and height of an element are calculated.
+27. Overflow: The property that specifies what should happen if an element's content overflows its box.
+28. Visibility: The property that determines whether an element is visible or hidden.
+29. Opacity: The property that specifies the transparency level of an element.
+30. Z-index: The property that specifies the stacking order of elements.
+31. Text-align: The property that specifies the horizontal alignment of text.
+32. Text-decoration: The property that specifies the decoration added to text.
+33. Text-transform: The property that specifies the capitalization of text.
+34. Text-indent: The property that specifies the indentation of the first line of text.
+35. Line-height: The property that specifies the height of a line of text.
+36. Letter-spacing: The property that specifies the space between characters.
+37. Word-spacing: The property that specifies the space between words.
+38. Text-shadow: The property that adds a shadow to text.
+39. Vertical-align: The property that specifies the vertical alignment of an inline or table-cell element.
+40. White-space: The property that specifies how white space inside an element is handled.
+41. Cursor: The property that specifies the type of cursor to display when hovering over an element.
+42. Transition: The property that specifies the transition effect for an element's style change.
+43. Animation: The property that specifies the animation applied to an element.
+44. Flexbox: A layout model that allows flexible distribution of space among elements in a container.
+45. Grid: A layout model that arranges elements into columns and rows.
+46. Flex-direction: The property that specifies the direction of the main axis in a flex container.
+47. Flex-wrap: The property that specifies whether flex items are forced onto a single line or can wrap onto multiple lines.
+48. Justify-content: The property that aligns flex items along the main axis of the flex container.
+49. Align-items: The property that aligns flex items along the cross axis of the flex container.
+50. Align-self: The property that allows a single flex item to be aligned differently from the others.
+51. Grid-template-columns: The property that defines the number and size of columns in a grid layout.
+52. Grid-template-rows: The property that defines the number and size of rows in a grid layout.
+53. Grid-column-gap: The property that specifies the size of the gap between grid columns.
+54. Grid-row-gap: The property that specifies the size of the gap between grid rows.
+55. Grid-gap: A shorthand property for grid-column-gap and grid-row-gap.
+56. Grid-column: The property that specifies a grid item's location within the grid columns.
+57. Grid-row: The property that specifies a grid item's location within the grid rows.
+58. Grid-area: The property that specifies a grid item's location within the grid columns and rows.
+59. Grid-template-areas: The property that defines named grid areas.
+60. Grid-auto-columns: The property that specifies the size of any auto-generated grid columns.
+61. Grid-auto-rows: The property that specifies the size of any auto-generated grid rows.
+62. Grid-auto-flow: The property that controls the direction in which auto-placed grid items are added to the grid.
+63. Flex-grow: The property that specifies how flex items grow to fill available space.
+64. Flex-shrink: The property that specifies how flex items shrink to fit into available space.
+65. Flex-basis: The property that specifies the initial size of a flex item before flex-grow and flex-shrink are applied.
+66. Order: The property that specifies the order of a flex item within a flex container.
+67. Float: The property that specifies whether an element should float to the left, right, or none.
+68. Clear: The property that specifies whether an element can be positioned next to floating elements.
+69. Column-count: The property that specifies the number of columns an element should be divided into.
+70. Column-gap: The property that specifies the gap between columns in a multi-column layout.
+71. Column-rule: The property that specifies the style, color, and width of the rule between columns in a multi-column layout.
+72. Column-span: The property that specifies whether an element should span across all columns.
+73. Column-width: The property that specifies the width of columns in a multi-column layout.
+74. Perspective: The property that defines the depth of the 3D space for transformed elements.
+75. Perspective-origin: The property that defines the origin of the perspective for transformed elements.
+76. Transform: The property that applies 2D or 3D transformations to an element.
+77. Transform-origin: The property that defines the origin of transformations for an element.
+78. Transform-style: The property that specifies how nested elements are rendered in 3D space.
+79. Backface-visibility: The property that specifies whether the back face of a transformed element is visible.
+80. Transition-property: The property that specifies which properties to transition.
+81. Transition-duration: The property that specifies how long a transition takes to complete.
+82. Transition-timing-function: The property that specifies the speed curve of a transition.
+83. Transition-delay: The property that specifies when the transition will start.
+84. Animation-name: The property that specifies the name of the @keyframes animation.
+85. Animation-duration: The property that specifies how long an animation takes to complete one cycle.
+86. Animation-timing-function: The property that specifies the speed
+87. Animation-delay: The property that specifies when the animation will start.
+88. Animation-iteration-count: The property that specifies the number of times an animation should be played.
+89. Animation-direction: The property that specifies whether an animation should play forwards, backwards, or in alternate cycles.
+90. Animation-fill-mode: The property that specifies how an animation should apply styles before and after it is executed.
+91. Animation-play-state: The property that specifies whether an animation is running or paused.
+92. Perspective: The property that defines the depth of the 3D space for transformed elements.
+93. Perspective-origin: The property that defines the origin of the perspective for transformed elements.
+94. Backface-visibility: The property that specifies whether the back face of a transformed element is visible.
+95. Mix-blend-mode: The property that specifies how an element's content should blend with its background.
+96. Filter: The property that applies graphical effects like blur or color shifting to an element.
+97. Box-shadow: The property that adds a shadow effect to an element's box.
+98. Text-overflow: The property that specifies how overflowed content in a block-level element is handled.
+99. Overflow-wrap: The property that specifies whether to break words when they exceed the boundaries of their container.
+100. Word-break: The property that specifies how words should be broken when exceeding the width of their container.
+101. Hyphens: The property that specifies whether to hyphenate words when wrapping text.
+102. Object-fit: The property that specifies how an element's content should be resized to fit its container.
+103. Object-position: The property that specifies the alignment of an element's content within its container when using object-fit.
+104. Outline: The property that draws a line around the outside of an element's border.
+105. Outline-offset: The property that sets the space between an outline and the edge of an element.
+106. Resize: The property that specifies whether an element is resizable by the user.
+107. Tab-size: The property that specifies the width of tab characters.
+108. Pointer-events: The property that controls under what circumstances a graphic element can become the target of pointer events.
+109. User-select: The property that controls the user's ability to select text.
+110. Box-decoration-break: The property that specifies how an element's box decorations should be drawn when the element is broken across multiple lines.
+111. Counter-reset: The property that creates or resets one or more counters.
+112. Counter-increment: The property that increments one or more counters.
+113. Content: The property that inserts generated content into an element.
+114. Quotes: The property that specifies the quotation marks for embedded quotations.
+115. Page-break-before: The property that specifies whether a page break should occur before an element.
+116. Page-break-after: The property that specifies whether a page break should occur after an element.
+117. Page-break-inside: The property that specifies whether a page break should be avoided inside an element.
+118. Column-span: The property that specifies whether an element should span across all columns.
+119. Column-fill: The property that specifies how to fill columns with content.
+120. Column-width: The property that specifies the width of columns in a multi-column layout.
+121. Column-count: The property that specifies the number of columns an element should be divided into.
+122. Column-gap: The property that specifies the gap between columns in a multi-column layout.
+123. Column-rule: The property that specifies the style, color, and width of the rule between columns in a multi-column layout.
+124. Column-rule-width: The property that specifies the width of the rule between columns in a multi-column layout.
+125. Column-rule-style: The property that specifies the style of the rule between columns in a multi-column layout.
+126. Column-rule-color: The property that specifies the color of the rule between columns in a multi-column layout.
+127. Column-fill: The property that specifies how to fill columns with content.
+128. Will-change: The property that specifies which properties are expected to change, so browsers can optimize rendering.
+129. Backdrop-filter: The property that applies graphical effects like blur or color shifting to the area behind an element.
+130. Clip-path: The property that creates a clipping region that defines what part of an element should be displayed.
+131. Mask: The property that specifies an SVG graphic as a mask for an element.
+132. Mask-image: The property that specifies an image as a mask for an element.
+133. Mask-size: The property that specifies the size of a mask.
+134. Mask-position: The property that specifies the position of a mask.
+135. Mask-repeat: The property that specifies how a mask should repeat.
+136. Mask-origin: The property that specifies the origin of a mask.
+137. Mask-clip: The property that specifies the clipping behavior of a mask.
+138. Mask-composite: The property that specifies how the mask and masked images are combined.
+139. Image-rendering: The property that specifies how an image is rendered.
+140. Image-resolution: The property that specifies the resolution of an image.
+141. Image-orientation: The property that specifies the orientation of an image.
+142. Image-fit: The property that specifies how an image should be resized to fit its container.
+143. Image-position: The property that specifies the alignment of an image within its container when using image-fit.
+144. Image-clip: The property that specifies the clipping behavior of an image.
+145. Image-slice: The property that specifies how an image should be divided into regions for resizing.
+146. Image-source: The property that specifies the source of an image.
+147. Image-size: The property that specifies the size of an image.
+148. Image-repeat: The property that specifies how an image should repeat.
+149. Image-origin: The property that specifies the origin of an image.
+150. Image-composite: The property that specifies how images are combined when they overlap.
