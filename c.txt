@@ -1,0 +1,77 @@
+Comments:
+Use // for single-line comments.
+Use /* */ for multi-line comments.
+
+Basic Structure:
+
+#include <stdio.h>
+int main() {
+    // code here
+    return 0;
+}
+
+Variables:
+Declare variables with a data type followed by the variable name.
+Initialize variables at declaration if needed.
+
+Data Types:
+int, float, double, char are basic data types.
+Use %d for integers, %f for floats, %lf for doubles, %c for characters in printf and scanf.
+
+Input/Output:
+printf() for output.
+scanf() for input.
+Include #include <stdio.h> for I/O functions.
+
+Operators:
+Arithmetic: +, -, *, /, %.
+Relational: ==, !=, >, <, >=, <=.
+
+Logical AND (&&):
+Returns true if both operands are true.
+Example: if (x > 0 && x < 10)
+
+Logical OR (||):
+Returns true if at least one operand is true.
+Example: if (x == 0 || x == 10)
+
+Logical NOT (!):
+Reverses the logical state of its operand.
+Example: if (!(x > 0)) (This condition is true if x is not greater than 0)
+
+Control Flow:
+if, else if, else for decision making.
+while, do-while, for for loops.
+switch for multi-way branching.
+
+Functions:
+Declare functions before main() or provide function prototypes.
+Define functions after main().
+
+Arrays:
+Declare arrays with a fixed size or dynamically allocate memory.
+Access elements using indexing (array[index]).
+
+Strings:
+Arrays of characters terminated by a null character '\0'.
+Use string manipulation functions like strlen(), strcpy(), strcat(), etc.
+
+Pointers:
+Variables that store memory addresses.
+Use & operator to get the address of a variable, * to dereference a pointer.
+
+Memory Management:
+malloc(), calloc(), realloc() for dynamic memory allocation.
+free() to deallocate memory.
+
+Structures:
+Custom data types composed of other data types.
+Access members using . operator.
+
+File Handling:
+fopen(), fclose() to open and close files.
+fprintf(), fscanf() for file I/O.
+
+Error Handling:
+Check return values for error codes.
+Use errno and perror() to display error messages.
