@@ -93,3 +93,17 @@ strupe - strinf upper case
 strcat - concat two strings together
 strcpy - copy strn 1 to strn 2
 strncpy - copy n cahraceters of strn 1 to strn 2.
+strlen(): Returns the length of a string.
+strncat(): Concatenates a certain number of characters from one string onto the end of another.
+strcmp(): Compares two strings lexicographically.
+strncmp(): Compares a certain number of characters of two strings.
+strchr(): Finds the first occurrence of a character in a string.
+strrchr(): Finds the last occurrence of a character in a string.
+strstr(): Finds the first occurrence of a substring in a string.
+strtok(): Tokenizes a string based on delimiters.
+strdup(): Duplicates a string.
+strchr(): Finds the first occurrence of a character in a string.
+strrchr(): Finds the last occurrence of a character in a string.
+memset(): Fills a block of memory with a particular value.
+memcpy(): Copies a block of memory from one location to another.
+memmove(): Moves a block of memory from one location to another, handling overlap.
