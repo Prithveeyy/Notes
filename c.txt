@@ -87,3 +87,9 @@ fprintf(), fscanf() for file I/O.
 Error Handling:
 Check return values for error codes.
 Use errno and perror() to display error messages.
+
+strlwr - strring lower case 
+strupe - strinf upper case
+strcat - concat two strings together
+strcpy - copy strn 1 to strn 2
+strncpy - copy n cahraceters of strn 1 to strn 2.
