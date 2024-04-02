@@ -39,10 +39,22 @@ Logical NOT (!):
 Reverses the logical state of its condition.
 Example: if (!(x > 0)) (This condition is true if x is not greater than 0)
 
-Control Flow:
-if, else if, else for decision making.
-while, do-while, for for loops.
-switch for multi-way branching.
+if: Executes a block of code if a condition is true.
+
+else if: Specifies a new condition if the previous one is false.
+
+else: Executes a block of code if none of the previous conditions are true.
+
+while loop:
+Repeatedly executes a block of code as long as a specified condition is true.
+
+do-while loop:
+Similar to while loop but the condition is checked after executing the block of code, so the block is always executed at least once.
+
+switch statement:
+Used for multi-way branching based on the value of an expression.
+Evaluates the expression once and compares the result to the values of constant expressions.
+Provides an alternative to long chains of if-else if statements.
 
 Functions:
 Declare functions before main() or provide function prototypes.
